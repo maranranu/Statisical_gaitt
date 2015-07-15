@@ -1,0 +1,65 @@
+feature 2
+accuracy 100%
+
+feature 3
+accuracy 97.7273
+error position     43
+
+feature 4
+accuracy 90.9091
+error position     18 21 39 41
+
+feature 5
+accuracy 97.7273
+error position 39
+
+feature 6
+accuracy 97.7273
+error position 14
+
+feature 7
+accuracy 100%
+error position 
+
+feature 8
+accuracy 97.7273
+error 15
+
+feature 9
+accuracy 100
+
+feature 10
+accuracy 100
+
+feature 11
+accuracy 95.4545
+error position    8 15
+
+feature 12
+accuracy 95.4545
+error position    19 41
+
+feature 13
+accuracy 95.4545
+error position    3  20
+
+feature 14
+accuracy 88.6364
+error position    3 4 19 20 22
+
+feature 15
+accuracy    100
+
+feature 16
+accuracy 97.7273
+error position    21
+
+feature 17
+accuracy   93.1818
+error position    7  18 20
+
+
+
+
+select 100% accuracy feature  : 10 features
+
